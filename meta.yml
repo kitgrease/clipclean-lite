@@ -1,0 +1,6 @@
+name: clipclean-lite
+tagline: Silent clipboard cleaner for macOS
+platform: macOS
+version: 1.0.0
+highlight: "macOS adds invisible junk. This strips it clean — silently."
+lite: true
